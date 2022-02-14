@@ -13,5 +13,5 @@
 ### Close the server
 * Close them with Ctrl-C, just like normally, spam it a little more if it doesn't close
 
-### Linux only behavior
+### Linux only behavior :
 * Server logs are stored like that : server1.log, server2.log, ...
